@@ -11,7 +11,7 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: transparent;
+  background: #29323c;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -25,11 +25,16 @@
 
 html {
   scrollbar-width: thin;
-  scrollbar-color: #697077 transparent;
+  scrollbar-color: #697077 #29323c;
 }
 
 body {
-  background-color: #29323c;
+  background: #29323c;
+  background: radial-gradient(
+    circle,
+    rgba(41, 50, 60, 1) 50%,
+    rgba(61, 70, 81, 1) 100%
+  );
   font-family: "Poppins", sans-serif;
   color: white;
   text-align: center;
