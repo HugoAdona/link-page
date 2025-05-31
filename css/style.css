@@ -34,11 +34,11 @@ body {
       0deg,
       rgba(92, 104, 120, 1) 0%,
       rgba(41, 50, 60, 1) 100%
-    )
-    no-repeat;
+    );
   font-family: "Poppins", sans-serif;
   color: white;
   text-align: center;
+  min-height: 100vh; 
 }
 
 .profile-container {
