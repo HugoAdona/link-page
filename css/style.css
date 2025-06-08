@@ -11,30 +11,26 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #29323c;
+  background: #0097b2;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #697077;
+  background: #99d0de;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #898e94;
+  background: #66bdd1;
 }
 
 html {
   scrollbar-width: thin;
-  scrollbar-color: #697077 #29323c;
+  scrollbar-color: #99d0de #0097b2;
 }
 
 body {
-  background: #5c6878;
-  background: linear-gradient(
-      0deg,
-      rgba(92, 104, 120, 1) 0%,
-      rgba(41, 50, 60, 1) 100%
-    );
+  background: #99D0DE;
+background: linear-gradient(0deg, rgba(153, 208, 222, 1) 0%, rgba(0, 151, 178, 1) 100%);
   font-family: "Poppins", sans-serif;
   color: white;
   text-align: center;
@@ -50,7 +46,7 @@ body {
   border: 2px solid white;
   width: 130px;
   margin: 15px 0;
-  box-shadow: 3px 3px 3px black;
+  box-shadow: 4px 4px 4px #003340;
 }
 
 .links-container {
@@ -65,13 +61,13 @@ body {
   margin: 15px;
   display: block;
   text-align: center;
-  color: #29323c;
+  color: #0097b2;
   text-decoration: none;
-  box-shadow: 3px 3px 3px black;
+  box-shadow: 4px 4px 4px #003340;
 }
 
 .links:hover {
-  background-color: #29323c;
+  background-color: #0097b2;
   color: white;
   border: 1px solid white;
   transition: 0.3s;
