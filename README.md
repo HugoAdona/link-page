@@ -1,12 +1,12 @@
-# Hugo Adona's Link Page
+# DevDecode's Link Page
 
 ## Overview
 
-This repository contains the source code for my personal link page, a simple and elegant web page designed to serve as a central hub for my online presence. The page provides quick access to my social media profiles, GitHub, and portfolio, with a clean, mobile-friendly design.
+This repository contains the source code for my link page, a simple and elegant web page designed to serve as a central hub for my online presence. The page provides quick access to my social media profiles, with a clean, mobile-friendly design.
 
 ## Features
 
-- **Centralized Links**: Links to social media platforms (Instagram, Facebook, Threads, X, YouTube), GitHub, and portfolio.
+- **Centralized Links**: Links to social media platforms (Instagram, Facebook, TikTok, YouTube).
 - **Responsive Design**: Optimized for both desktop and mobile devices with a centered layout.
 - **Custom Styling**: Utilizes Poppins font, a gradient background, and hover effects for an engaging user experience.
 - **Profile Image**: Displays a circular profile picture with a subtle shadow effect.
@@ -50,7 +50,7 @@ This repository contains the source code for my personal link page, a simple and
 
 ## Deployment
 
-The website is deployed on GitHub Pages at [https://hugoadona.github.io/link-page](https://hugoadona.github.io/link-page). To deploy updates:
+The website is deployed on GitHub Pages at [https://devdecode.vercel.app](https://devdecode.vercel.app). To deploy updates:
 
 1. Push changes to the `main` branch.
 2. Ensure GitHub Pages is configured to serve from the `main` branch in the repository settings.
