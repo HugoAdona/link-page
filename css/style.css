@@ -47,10 +47,10 @@ body {
 
 .profile-container img {
   border-radius: 75px;
-  border: 2px solid white;
-  width: 130px;
-  margin: 15px 0;
-  box-shadow: 4px 4px 4px #003340;
+  border: 3px solid white;
+  width: 140px;
+  margin: 15px;
+  box-shadow: 4px 4px 4px #004d5c;
 }
 
 .links-container {
@@ -60,19 +60,17 @@ body {
 .links {
   background-color: white;
   font-size: 20px;
-  border-radius: 10px;
-  padding: 10px;
+  border-radius: 15px;
+  padding: 15px;
   margin: 15px;
   display: block;
-  text-align: center;
   color: #0097b2;
   text-decoration: none;
-  box-shadow: 4px 4px 4px #003340;
+  box-shadow: 4px 4px 4px #004d5c;
 }
 
 .links:hover {
   background-color: #0097b2;
   color: white;
-  border: 1px solid white;
-  transition: 0.3s;
+  transition: 0.35s;
 }
