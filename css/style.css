@@ -29,12 +29,16 @@ html {
 }
 
 body {
-  background: #99D0DE;
-background: linear-gradient(0deg, rgba(153, 208, 222, 1) 0%, rgba(0, 151, 178, 1) 100%);
+  background: #99d0de;
+  background: linear-gradient(
+    0deg,
+    rgba(153, 208, 222, 1) 0%,
+    rgba(0, 151, 178, 1) 100%
+  );
   font-family: "Poppins", sans-serif;
   color: white;
   text-align: center;
-  min-height: 100vh; 
+  min-height: 100vh;
 }
 
 .profile-container {
