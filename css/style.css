@@ -46,9 +46,9 @@ body {
 }
 
 .profile-container img {
-  border-radius: 75px;
+  border-radius: 50%;
   border: 3px solid white;
-  width: 140px;
+  width: 150px;
   margin: 15px;
   box-shadow: 4px 4px 4px #004d5c;
 }
