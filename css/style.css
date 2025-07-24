@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  cursor: url('../assets/svg/arrow-pointer.svg') 0 0, auto;
 }
 
 ::-webkit-scrollbar {
@@ -39,6 +40,12 @@ body {
   color: white;
   text-align: center;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }
 
 .profile-container {
@@ -83,9 +90,10 @@ footer {
   background-color: #004d5c;
   color: white;
   padding: 10px;
-  margin-top: 30px;
   width: 100%;
+  margin-top: auto;
 }
+
 footer p {
   margin: 0;
   font-size: 14px;
